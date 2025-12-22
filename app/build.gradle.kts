@@ -25,7 +25,7 @@ plugins {
     alias(libs.plugins.baselineprofile)
     alias(libs.plugins.roborazzi)
     alias(libs.plugins.kotlin.serialization)
-    id("io.github.cdsap.r8booster") version "0.0.4"
+    id("io.github.cdsap.r8booster") version "0.0.5"
 }
 
 android {
