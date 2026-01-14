@@ -39,4 +39,4 @@ jobs:
          remote_monitoring: true
 
       - name: Check build-logic
-        run: ./gradlew test
+        run: ./gradlew testDemoDebug
