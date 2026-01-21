@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   test_and_apk:
-    name: "LFiarst Ks"
+    name: "LFsarst Ks"
     runs-on: ubuntu-latest
 
     permissions:
